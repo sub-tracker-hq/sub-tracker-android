@@ -27,3 +27,11 @@ replay_pid*
 .kotlin/
 
 .claude/settings.local.json
+
+# Android/Gradle
+local.properties
+.gradle/
+/build/
+/app/build/
+.cxx/
+captures/
