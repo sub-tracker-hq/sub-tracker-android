@@ -4,6 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name=".SubTrackerApplication"
         android:allowBackup="true"
         android:label="Sub-tracker"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
